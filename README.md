@@ -27,8 +27,7 @@ Stay tuned for more updates as we progress!
 
 ---
 
-Let’s make this the best Advent of Code yet! 💻🌟  
-Feel free to contribute, fork, or simply enjoy solving puzzles with the global coding community. 🎉  
+Let’s make this the best Advent of Code yet! 💻🌟   
 
 ---
 
