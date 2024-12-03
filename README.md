@@ -24,8 +24,6 @@ Stay tuned for more updates as we progress!
 
 ## 🎅 Special Thanks  
 - 🎄 **[Advent of Code](https://adventofcode.com/):** Shoutout to the creator, Eric Wastl, for this magical coding tradition!  
-- 🧑‍💻 **Community:** Join the discussions, share your solutions, and grow together.  
-
 ---
 
 Let’s make this the best Advent of Code yet! 💻🌟   
