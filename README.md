@@ -15,7 +15,8 @@ Welcome to the **[Advent of Code 2024](https://adventofcode.com/)** repository, 
 |-----|------------------------------|-----------------|
 | 1   | Historian Hysteria           | 🌟🌟           |
 | 2   | Red-Nosed Reports            | 🌟🌟           |
-| 3   | Coming soon...               | -               |
+| 3   | Mull It Over                 | 🌟🌟           |
+| 4   | Coming soon...               | -               |
 
 Stay tuned for more updates as we progress!  
 
