@@ -18,16 +18,12 @@ Welcome to the **[Advent of Code 2024](https://adventofcode.com/)** repository, 
 | 3   | Mull It Over                 | 🌟🌟           |
 | 4   | Coming soon...               | -               |
 
-Stay tuned for more updates as we progress!  
+Stay tuned for more updates as we progress!  Let’s make this the best Advent of Code yet! 💻🌟  
 
 ---
 
 ## 🎅 Special Thanks  
 - 🎄 **[Advent of Code](https://adventofcode.com/):** Shoutout to the creator, Eric Wastl, for this magical coding tradition!  
----
-
-Let’s make this the best Advent of Code yet! 💻🌟   
-
 ---
 
 **Happy Coding & Merry Christmas! 🎅🎄**  
