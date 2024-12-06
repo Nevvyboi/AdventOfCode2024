@@ -17,7 +17,8 @@ Welcome to the **[Advent of Code 2024](https://adventofcode.com/)** repository, 
 | 2   | Red-Nosed Reports            | 🌟🌟           |
 | 3   | Mull It Over                 | 🌟🌟           |
 | 4   | Ceres Search                 | 🌟              |
-| 5   | Coming soon...               | -               |
+| 5   | Print Queue                  | 🌟🌟           |
+| 6   | Coming soon...               | -               |
 
 Stay tuned for more updates as we progress!  Let’s make this the best Advent of Code yet! 💻🌟  
 
